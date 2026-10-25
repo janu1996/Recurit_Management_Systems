@@ -1,0 +1,319 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "Tech Solutions",
+      "location": "Hyderabad",
+      "type": "Full Time",
+      "experience": "0-2 Years",
+      "salary": "₹4-6 LPA",
+      "category": "Development",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72",
+      "description": "We are looking for a passionate Frontend Developer to build modern and responsive web applications.",
+      "requirements": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Python Developer",
+      "company": "Innovate Technologies",
+      "location": "Bangalore",
+      "type": "Full Time",
+      "experience": "0-2 Years",
+      "salary": "₹5-7 LPA",
+      "category": "Software Development",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
+      "description": "We are looking for a Python Developer interested in building reliable backend applications and APIs",
+      "requirements": [
+        "Python",
+        "Flask",
+        "SQL",
+        "REST API"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "UI/UX Designer",
+      "company": "Creative Digital",
+      "location": "Chennai",
+      "type": "Full Time",
+      "experience": "1-3 Years",
+      "salary": "₹4-6 LPA",
+      "category": "Design",
+      "rating": 4.3,
+      "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb",
+      "description": "Join our design team and create intuitive and engaging digital experiences for our users.",
+      "requirements": [
+        "Figma",
+        "UI Design",
+        "UX Design",
+        "Prototyping"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Java Developer",
+      "company": "Enterprise Systems",
+      "location": "Pune",
+      "type": "Full Time",
+      "experience": "1-3 Years",
+      "salary": "₹6-8 LPA",
+      "category": "Software Development",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+      "description": "We are looking for a Java Developer to develop scalable enterprise applications.",
+      "requirements": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "REST API"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Backend Developer",
+      "company": "CloudWorks",
+      "location": "Hyderabad",
+      "type": "Full Time",
+      "experience": "1-3 Years",
+      "salary": "₹6-9 LPA",
+      "category": "Backend Development",
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+      "description": "Build secure and scalable backend services and APIs for modern applications.",
+      "requirements": [
+        "Python",
+        "Flask",
+        "MySQL",
+        "REST API"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "React Developer",
+      "company": "WebCraft Technologies",
+      "location": "Bangalore",
+      "type": "Full Time",
+      "experience": "0-2 Years",
+      "salary": "₹5-8 LPA",
+      "category": "Development",
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+      "description": "Develop interactive web applications using React and modern frontend technologies.",
+      "requirements": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Data Analyst",
+      "company": "Insight Analytics",
+      "location": "Mumbai",
+      "type": "Full Time",
+      "experience": "0-2 Years",
+      "salary": "₹4-7 LPA",
+      "category": "Data",
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+      "description": "Analyze business data and create meaningful reports to support business decisions.",
+      "requirements": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Power BI"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Full Stack Developer",
+      "company": "Digital Innovations",
+      "location": "Delhi",
+      "type": "Full Time",
+      "experience": "1-3 Years",
+      "salary": "₹7-10 LPA",
+      "category": "Full Stack Development",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "description": "Work on both frontend and backend development for modern web applications.",
+      "requirements": [
+        "React",
+        "Node.js",
+        "Python",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Mobile App Developer",
+      "company": "AppTech Solutions",
+      "location": "Hyderabad",
+      "type": "Full Time",
+      "experience": "1-3 Years",
+      "salary": "₹5-8 LPA",
+      "category": "Mobile Development",
+      "rating": 4.1,
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c",
+      "description": "Develop and maintain modern mobile applications with a focus on user experience.",
+      "requirements": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "REST API"
+      ]
+    },
+    {
+      "title": "Web Developer",
+      "company": "InfoTech Solutions",
+      "location": "Hyderabad",
+      "type": "Full Time",
+      "experience": "0-2 Years",
+      "salary": "₹3–5 LPA",
+      "category": "Development",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "description": "We are looking for a motivated Web Developer to design, develop, and maintain responsive and user-friendly websites. The candidate should have knowledge of HTML, CSS, JavaScript, and React.js. Responsibilities include developing web pages, integrating APIs, fixing bugs, optimizing performance, and collaborating with the development team.",
+      "id": "tp4pm9RXi7A"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "teja",
+      "email": "teja@gmail.com",
+      "password": "admin123",
+      "role": "candidate"
+    },
+    {
+      "id": "no9BvgOxVjs",
+      "name": "Radha",
+      "email": "radha19962005@gmail.com",
+      "password": "radha123",
+      "role": "candidate"
+    },
+    {
+      "id": "recruiter001",
+      "name": "Recruiter Admin",
+      "email": "recruiter@recruitpro.com",
+      "password": "admin123",
+      "role": "recruiter"
+    },
+    {
+      "name": "Bhoomi",
+      "email": "bhoomi@gmail.com",
+      "password": "admin123",
+      "role": "candidate",
+      "id": "xnUNLyydqhI"
+    }
+  ],
+  "applications": [
+    {
+      "jobId": "2",
+      "fullName": "Radha",
+      "email": "radha19962005@gmail.com",
+      "phone": "9876543210",
+      "qualification": "btech",
+      "experience": "Fresher",
+      "resume": "PLACEMENT DRIVE.docx",
+      "coverLetter": "",
+      "id": "QKwCXqDdIlU"
+    },
+    {
+      "jobId": "1",
+      "fullName": "Radha",
+      "email": "radha19962005@gmail.com",
+      "phone": "8897239010",
+      "qualification": "btech",
+      "experience": "Fresher",
+      "resume": "PLACEMENT DRIVE.docx",
+      "coverLetter": "an asspirant frontend developer",
+      "id": "5lNq-wLJAQM",
+      "status": "Rejected"
+    },
+    {
+      "jobId": "1",
+      "applicantId": "no9BvgOxVjs",
+      "applicantName": "Radha",
+      "applicantEmail": "radha19962005@gmail.com",
+      "fullName": "Radha",
+      "email": "radha19962005@gmail.com",
+      "phone": "8897239010",
+      "dateOfBirth": "2005-09-23",
+      "gender": "Female",
+      "qualification": "btech",
+      "college": "JNTU-K",
+      "graduationYear": "2026",
+      "skills": "React,HTML,CSS,JavaScript",
+      "experience": "Fresher",
+      "currentLocation": "Visakhapatnam",
+      "expectedSalary": "3 LPA",
+      "noticePeriod": "15 Days",
+      "linkedin": "https://www.linkedin.com/in/radha-devi",
+      "github": "https://github.com/radhadevi-dev",
+      "resume": "Jahnavi_Resume_final (2).pdf",
+      "coverLetter": "Dear Hiring Manager,\n\nI am writing to express my interest in the position at your organization. I am a motivated and enthusiastic fresher with a strong interest in software development and web technologies. I have hands-on experience with HTML, CSS, JavaScript, React.js, Python, and SQL, and I enjoy building responsive and user-friendly applications.\n\nThrough my academic projects and internship experience, I have developed my problem-solving, programming, and teamwork skills. I am eager to learn new technologies, take on challenging tasks, and contribute positively to your organization.\n\nI would appreciate the opportunity to discuss how my skills and enthusiasm can contribute to your team. Thank you for considering my application.\n\nSincerely,\nRadha Devi",
+      "status": "Applied",
+      "appliedDate": "2026-09-30T16:15:08.693Z",
+      "id": "HcbX9h6wisw"
+    },
+    {
+      "jobId": "6",
+      "applicantId": "no9BvgOxVjs",
+      "applicantName": "Radha Devi",
+      "applicantEmail": "radha19962005@gmail.com",
+      "fullName": "Radha Devi",
+      "email": "radha19962005@gmail.com",
+      "phone": "9876543210",
+      "dateOfBirth": "2003-06-16",
+      "gender": "Female",
+      "qualification": "B.Tech CSE",
+      "college": "Vignan University",
+      "graduationYear": "2025",
+      "skills": "React,HTML,CSS,JavaScript,python,sequal,flask",
+      "experience": "Fresher",
+      "currentLocation": "Visakhapatnam",
+      "noticePeriod": "Immediate",
+      "linkedin": "https://www.linkedin.com/in/radha-devi",
+      "github": "https://github.com/radhadevi-dev",
+      "resume": "Jahnavi_Resume_final (3).pdf",
+      "coverLetter": "I am a motivated fresher with strong knowledge of web development. I am eager to learn new technologies and contribute to the organization.",
+      "status": "Applied",
+      "appliedDate": "2026-09-30T16:29:58.210Z",
+      "id": "AAccFLseKMc"
+    },
+    {
+      "jobId": "1",
+      "applicantId": "1",
+      "applicantName": "teja",
+      "applicantEmail": "teja@gmail.com",
+      "fullName": "teja",
+      "email": "teja@gmail.com",
+      "phone": "8897239010",
+      "dateOfBirth": "2000-08-01",
+      "gender": "Male",
+      "qualification": "B.Tech CSE",
+      "college": "Vignan University",
+      "graduationYear": "2022",
+      "skills": "React,HTML,CSS,JavaScript,Bootstrap",
+      "experience": "1-3 Years",
+      "currentLocation": "Visakhapatnam",
+      "noticePeriod": "15 Days",
+      "linkedin": "https://www.linkedin.com/in/teja",
+      "github": "https://github.com/teja",
+      "resume": "Jahnavi_Resume_Frontend_JD.pdf",
+      "coverLetter": "",
+      "status": "Shortlisted",
+      "appliedDate": "2026-10-10T08:32:55.855Z",
+      "id": "QJzXjPD0DNQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
